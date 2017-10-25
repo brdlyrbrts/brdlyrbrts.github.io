@@ -1,2 +1,3 @@
 name: Brad Roberts
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
